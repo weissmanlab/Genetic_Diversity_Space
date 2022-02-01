@@ -20,4 +20,4 @@ https://www.overleaf.com/read/ymgyzfvcrtwk
 
 **Spatial_Plots_Mrholess.ipynb**: Script for running the spatial plot for 1-D circular stepping-stone populations when m*rho << 1 << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 3.Spatial_cartoon_fixation.pdf
 
-Spatial_cartoon_prefixation.pdf and Spatial_cartoon_fixation.pdf: Cartoon representations for spatial plots above seen in Figs 7 and 8. 
+**Spatial_cartoon_prefixation.pdf and Spatial_cartoon_fixation.pdf**: Cartoon representations for spatial plots above seen in Figs 7 and 8. 
