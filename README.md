@@ -9,7 +9,7 @@ Notebook for running 1-D circular stepping-stone population simulations where 1 
 
 main
 **1DCircular_Mrholessthan1.ipynb**: 
-=======
+
 **1DCircular_Mrhogreaterthan1.ipynb**: 
 main
 Notebook for running 1-D circular stepping-stone population simulations where m*rho << 1 << L over 50 trials and outputs the allele frequency spectrum seen in Fig 5 along with the Voter Model + Wright Fisher fits
@@ -18,7 +18,7 @@ Notebook for running 1-D circular stepping-stone population simulations where m*
 Graphic for 1-D circular stepping-stone population 
 
 **2D_Toroidal_Simulation.ipynb**:
-main
+
 Notebook  for running 2-D toroidal stepping-stone population simulations where m*rho << 1  over 50 trials and outputs the allele frequency spectrum seen in Fig 12 along with the Wright Fisher fit. Simply change m*rho value to make it >> 1 to get Fig 11. 
 
 **Heterozygosity_Mrhogreat.ipynb**: 
@@ -32,7 +32,7 @@ Notebook  for running the spatial plot for 1-D circular stepping-stone populatio
 
 **Spatial_Plots_Mrholess.ipynb**: 
 Notebook for running the spatial plot for 1-D circular stepping-stone populations when m*rho << 1 << L. Outputs multiple spatial plots within the transition zone like the plot seen in Fig 3.Spatial_cartoon_fixation.pdf
-=======
+
 Notebook for running 2-D toroidal stepping-stone population simulations where m*rho << 1  over 50 trials and outputs the allele frequency spectrum seen in Fig 12 along with the Wright Fisher fit. Simply change m*rho value to make it >> 1 to get Fig 11. 
 
 **Heterozygosity_Mrhogreat.ipynb**: 
