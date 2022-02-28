@@ -8,7 +8,6 @@ https://www.overleaf.com/read/ymgyzfvcrtwk
 Notebook for running 1-D circular stepping-stone population simulations where 1 << m*rho << L over 50 trials and outputs the allele frequency spectrum seen in Fig 6.
 
 **1DCircular_Mrholessthan1.ipynb**: 
-
 Notebook for running 1-D circular stepping-stone population simulations where m*rho << 1 << L over 50 trials and outputs the allele frequency spectrum seen in Fig 5 along with the Voter Model + Wright Fisher fits
 
 **1D_Stepping_Stone.pdf**:
